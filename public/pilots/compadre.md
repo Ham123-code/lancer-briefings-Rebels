@@ -1,4 +1,5 @@
 Pilot Description
 
-Trivia
-Is one of six Pilots on the team
+## Trivia
+
+* Is in a team with 5 other pilots
