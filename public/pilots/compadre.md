@@ -1,1 +1,4 @@
-Pilot 2
+Pilot Description
+
+Trivia
+Is one of six Pilots on the team
