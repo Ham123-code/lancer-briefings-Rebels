@@ -5,7 +5,7 @@
 			<h2>Deployment to Keta 7.9 Mining Facility</h2>
 		</div>
 		<div class="status" :class="this.mission.status">
-			Briefing
+			- Briefing -
 			<img :src="icon" />
 		</div>
 	</div>
