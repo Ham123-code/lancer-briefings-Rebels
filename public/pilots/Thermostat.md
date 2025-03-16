@@ -1,6 +1,6 @@
 Pilot Description
 ## Name
-Stan Richardson
+Hingy Geitzig
 
 ## Callsign
 Thermostat
