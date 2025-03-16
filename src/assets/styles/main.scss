@@ -11,7 +11,7 @@ $highlight-hover: rgba(255, 255, 255, 0.3);
 $highlight-active: rgba(255, 255, 255, 0.1);
 
 //Primary Text
-$text-headers: rgba(255, 255, 255, 0);
+$text-headers: rgba(255, 255, 255, 1);
 $text-location: rgba(20, 233, 205, 0);
 
 //Location Information
@@ -21,17 +21,17 @@ $location-separator: rgba(20, 233, 205, 0);
 $text-mission-title: rgba(233, 231, 20, 0.95);
 $text-mission-status: rgba(20, 233, 205, 0);
 $mission-start: rgba(233, 231, 20, 0.95);
-$mission-partial: rgba(255, 255, 255, 0);
-$mission-success: rgba(255, 255, 255, 0);
-$mission-failure: rgba(255, 255, 255, 0);
+$mission-partial: rgba(255, 255, 255, 1);
+$mission-success: rgba(255, 255, 255, 1);
+$mission-failure: rgba(255, 255, 255, 1);
 
 //Pilot Roster Text
-$text-pilot-header: rgba(255, 255, 255, 0);
-$text-pilot-value: rgba(255, 255, 255, 0);
+$text-pilot-header: rgba(255, 255, 255, 1);
+$text-pilot-value: rgba(255, 255, 255, 1);
 $text-pilot-code: rgba(20, 233, 205, 0);
 
 //Markdown (Current Assignment, Events Log, Pilot Biography)
-$text-markdown-p: rgba(255, 255, 255, 0);
+$text-markdown-p: rgba(255, 255, 255, 1);
 $text-markdown-h1: rgba(233, 231, 20, 0.95);
 $text-markdown-h2: rgba(20, 233, 205, 0);
 
