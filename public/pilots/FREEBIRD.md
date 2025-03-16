@@ -1,4 +1,3 @@
-Pilot Description
 ## Name
 Stan Richardson
 
