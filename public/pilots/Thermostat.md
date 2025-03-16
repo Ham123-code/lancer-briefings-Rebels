@@ -1,4 +1,3 @@
-Pilot Description
 ## Name
 Hingy Geitzig
 
