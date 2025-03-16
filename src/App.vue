@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "INVESTIGATE",
           "status": "start"
         },
       ],
@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
+        "planet": "Keta 7.9",
+        "year": "6019u",
+        "system": "Teuflisch",
+        "gate": "Unkown",
+        "ring": "Atriedies-Line",
+        "headerTitle": "Teuflisch",
+        "headerSubtitle": "Special Operations",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Whisky-Tango-Foxtrot-Sierra",
       },
       "options":{
         "eventsMarkdownPerMission": true
