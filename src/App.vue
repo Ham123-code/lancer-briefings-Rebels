@@ -157,8 +157,8 @@ export default {
         "ring": "Atriedies-Line",
         "headerTitle": "Teuflisch",
         "headerSubtitle": "Special Operations",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Whisky-Tango-Foxtrot-Sierra",
+        "subheaderTitle": "Division",
+        "subheaderSubtitle": "Whisky-Tango-Foxtrot",
       },
       "options":{
         "eventsMarkdownPerMission": true
