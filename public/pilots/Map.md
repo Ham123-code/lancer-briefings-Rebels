@@ -1,10 +1,10 @@
 ## *LANCE DEPLOYMENTS*
 
-Blue Lance= LEHR
+Blue Lance = LEHR = GOTH
 
-Orange Lance = TEAM 
+Orange Lance = TEAM = HANDLER 
 
-White Lance = TOTENKOPF
+White Lance = TOTENKOPF = HOSS
 
 ## INITIAL DEPLOYMENT PARAMETERS
 
