@@ -11,7 +11,7 @@ Hacker and Resident Computer Specialist
 GMS Everest - EMMA
 
 ## Primary Armament
-Multiple "NEXUS" class weapon points, Thermal Lance, and NHP assistant Suite. 
+Multiple "NEXUS" class weapon points, Thermal Lance, and NHP assistant suite. 
 
 ## Trivia
 
