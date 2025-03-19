@@ -7,6 +7,12 @@ Thermostat
 ## Role
 Heavy Weapons and reading the temperature of a situation 
 
+## Mech
+GMS Everest - WASTE MANAGEMENT
+
+## Primary Armament 
+Multiple small-arms attachements, Mortar, and Heavy Machine Gun Primary Weapons.  Multiple Combat Deployables
+
 ## Trivia
 
 * As a child I yearned for the mines
