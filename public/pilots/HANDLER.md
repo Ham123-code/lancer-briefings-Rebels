@@ -12,7 +12,9 @@ is largely untested. However, it is well within reason it could be for more nefa
 
 Investigations will be handled by 
 **Goth**
+
 **Hoss**
+
  and **Handler**
 
 **Ozai** will have their Lance placed on standby after the **CORONA** incidient
@@ -38,3 +40,8 @@ that could be feasibly turned on personnel.
 **Schindler** is noted as having a recreational hobby that involves restoring/modifying “classic” mech frames, it 
 is understood his security mechs may be older models, but are likely upgraded or “Fully-Loaded” and such 
 modifications are within lawful statures as a subsidiary branch of the Teuflisch military forces.
+
+
+
+
+...
