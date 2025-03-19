@@ -142,14 +142,14 @@ export default {
         },
         {
           "callsign": "Map",
-          "alias": 'Keta 7.9 Mining',
+          "alias": 'Recommisions Facility J-Bravo',
           "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Rio Bravo"
         },
          {
-          "callsign": "HANDLER",
+          "callsign": "Lieutenant",
           "alias": "M17C",
           "code": "REDACTED-IMOLATECLEARENCEGIVENATCONFLICT279-111",
           "corpro": "GMS",
@@ -158,15 +158,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Keta 7.9",
+        "planet": "GrunSchmeide",
         "year": "6019u",
         "system": "Teuflisch",
         "gate": "Unkown",
         "ring": "Atriedies-Line",
-        "headerTitle": "Teuflisch",
-        "headerSubtitle": "Special Operations",
+        "headerTitle": "Resistance",
+        "headerSubtitle": "Counter Operations",
         "subheaderTitle": "Division",
-        "subheaderSubtitle": "BATTLENET.V.3.54B",
+        "subheaderSubtitle": "BATTLENET.V.2.12D",
       },
       "options":{
         "eventsMarkdownPerMission": true
