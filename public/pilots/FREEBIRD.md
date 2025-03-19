@@ -7,6 +7,12 @@ Freebird
 ## Role
 Hacker and Resident Computer Specialist 
 
+## Mech
+GMS Everest - EMMA
+
+## Primary Armament
+Multiple "NEXUS" class weapon points, Thermal Lance, and NHP assistant Suite. 
+
 ## Trivia
 
 * Freebird comes from the fact that he once had a date walk out on him when he tried to serenade her with the song.
