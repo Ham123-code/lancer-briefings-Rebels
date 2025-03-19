@@ -166,7 +166,7 @@ export default {
         "headerTitle": "Teuflisch",
         "headerSubtitle": "Special Operations",
         "subheaderTitle": "Division",
-        "subheaderSubtitle": "Whisky-Tango-Foxtrot",
+        "subheaderSubtitle": "BATTLENET.V.3.54B",
       },
       "options":{
         "eventsMarkdownPerMission": true
