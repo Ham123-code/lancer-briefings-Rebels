@@ -148,6 +148,14 @@ export default {
           "frame": "Everest",
           "mech": "Rio Bravo"
         },
+         {
+          "callsign": "HANDLER",
+          "alias": "M17C",
+          "code": "REDACTED-IMOLATECLEARENCEGIVENATCONFLICT279-111",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "The Bear"
+        },
       ],
       "header": {
         "planet": "Keta 7.9",
