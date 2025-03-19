@@ -10,14 +10,15 @@ mining operations. This could be could be do to the harsh conditions and strain 
 Keta 7.9s atmosphere and the properties of the mined ore’s as their interaction with biological respiratory systems 
 is largely untested. However, it is well within reason it could be for more nefarious purposes.  
 
-Investigations will be handled by 
-**Goth**
+Investigations will be handled by the following Handlers
 
-**Hoss**
+* **Goth**
 
- and **Handler**
+* **Hoss**
 
-**Ozai** will have their Lance placed on standby after the **CORONA** incidient
+* **Handler**
+
+* **Ozai** will have their Lance placed on standby after the **CORONA** incidient
 
 
 **Goth’s** Lance will take on interviewing on-site staff, as well as **Schindler** and his security team. These 
